@@ -7,11 +7,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Capitol Farms feeds 19 horses twice daily. The decisions regarding feed all come from the Barn Manager. Any changes must be disseminated to a team of feeders. The hand written paper feeding schedules are not ideal and prone to mistakes. The Feeding Manager web application will allow the Barn Manager to quickly and easily make changes to the feed schedule and notify all feeders at once. Feeders will be able to run daily reports showing what feed is needed for each horse so that feeding time can occur quickly and efficiently. Medications and supplements can be added on an ongoing basis or for only a short period of time. 
+
+
 ### Features
-Include Features here
+-AM/PM Feed Reports - Feeders have the ability to run a report for either the AM or PM feed and recieve a display showing feed details for each horse.
+
+-Horse Profiles - Barn Manager and any administrators will have access to edit each horse's profile adjusting their feed requirements for AM and PM feed times.
+
+-Grain Reports - Feeders can run the AM/PM Feed Report by grain type to see which horses get a certain amount of each type of grain.
+
+-Supplements and Medications - Supplements are additives that can be added to a horse's feed. Some supplements should always be added while others are only used for a short amount of time. Medications are similar. These can both be added to a horse's feed schedule for a set period of time or a set number of times.
+
+-User Profiles - Feeders will all have their own login and can mark of each feeding once it has been finished. The Barn Manager will then be able to view which feeder completed which day's feeding.
+
+
 ### Technologies
-Include Technologies here
+-C#
+-Bootstrap
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will learn the coding language C# to complete this project. I will also learn to create a better user interface for a web application using Bootstrap.
