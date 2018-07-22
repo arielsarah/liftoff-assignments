@@ -26,7 +26,7 @@ Capitol Farms feeds 19 horses twice daily. The decisions regarding feed all come
 - C#  
 - Bootstrap 
 - ASP.net MVC core
-- Facebook login capability
+- OAuth (Facebook login capability)
 
 
 ### What I'll Have to Learn
