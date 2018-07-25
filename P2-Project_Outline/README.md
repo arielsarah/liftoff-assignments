@@ -33,4 +33,4 @@ Capitol Farms feeds 19 horses twice daily. The decisions regarding feed all come
 I will learn the coding language C# and ASP.net MVC core to complete this project. I will also learn to create a better user interface for a web application using Bootstrap. I'll need to research and find out how to use Facebook to login to the application.
 
 ### Project Tracker
-https://github.com/arielsarah/liftoff-assignments/projects/1
+https://github.com/arielsarah/capitol-farms-feed-manager/projects/1
