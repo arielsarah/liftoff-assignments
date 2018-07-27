@@ -19,7 +19,7 @@ Capitol Farms feeds 19 horses twice daily. The decisions regarding feed all come
 
 -Supplements and Medications - Supplements are additives that can be added to a horse's feed. Some supplements should always be added while others are only used for a short amount of time. Medications are similar. These can both be added to a horse's feed schedule for a set period of time or a set number of times.
 
--User Profiles - Feeders will all have their own login and can mark off each feeding once it has been finished. The Barn Manager will then be able to view which feeder completed which day's feeding.
+-User Profiles (to be added after first release) - Feeders will all have their own login and can mark off each feeding once it has been finished. The Barn Manager will then be able to view which feeder completed which day's feeding.
 
 
 ### Technologies
@@ -30,7 +30,7 @@ Capitol Farms feeds 19 horses twice daily. The decisions regarding feed all come
 
 
 ### What I'll Have to Learn
-I will learn the coding language C# and ASP.net MVC core to complete this project. I will also learn to create a better user interface for a web application using Bootstrap. I'll need to research and find out how to use Facebook to login to the application.
+I will learn the coding language C# and ASP.net MVC core to complete this project. I will also learn to create a better user interface for a web application using Bootstrap. I'll need to research and find out how to use Facebook to login to the application for future releases after the initial release.
 
 ### Project Tracker
 https://github.com/arielsarah/capitol-farms-feed-manager/projects/1
