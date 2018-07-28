@@ -21,7 +21,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Project Tracker
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
-https://github.com/arielsarah/capitol-farms-feed-manager/projects/2
+https://github.com/arielsarah/capitol-farms-feed-manager/projects
 
 ### GitHub Repository
 
